@@ -4,7 +4,7 @@ This repository is developed to explain the fundamentals of neural network , how
 ## Data sets :-
 * Boston data set - Regression problem .
 * IMDB data set - Binary class classification (textual data set) .
-* MNIST data set - Multi class classification .
+* MNIST data set - Multi class classification .</br>
 (description about the data is given in the notebooks)
 
 ## Prerequisites
