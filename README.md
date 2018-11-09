@@ -1,4 +1,6 @@
 # Neural Network Architectures
+![title](intro.jpeg)
+
 This repository is developed to explain the fundamentals of neural network , how they are better than classic ML algorithms (in several way) and how to develop models using basic NN architecture on different basic data sets.
 
 ## Data sets :-
