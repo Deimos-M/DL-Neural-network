@@ -14,4 +14,4 @@ This repository is developed to explain the fundamentals of neural network , how
 
 The accuracy and the results that are produced are feasible , you can also try to design different architectures using different parameters but keep checking output for overfitting results.
 
-## HAPPY coding :)
+##  :)
